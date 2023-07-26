@@ -26,19 +26,20 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Completed
 
-## Installing
+## Install
 
-Navigate to the develop folder using the command prompt.
-
-Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your command prompt, and then open `http://localhost:8888` in your browser.
-
-Else click deployed site:
+1. Navigate to the develop folder using the command prompt.
+2. Run `npm install` to install all dependencies.
+3. To run the application locally, run `node server.js` in your command prompt.
+4. And then open `http://localhost:8888` in your browser.
+5. Else click deployed site:
 
 ## Screenshot
 
 #### Note Taker
 
 ![Note Taker](screenshot1.jpg)
+![Note Taker](screenshot2.jpg)
 
 ## Repository & URL - Link
 
