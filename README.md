@@ -26,6 +26,14 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Completed
 
+## Installing
+
+Navigate to the develop folder using the command prompt.
+
+Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your command prompt, and then open `http://localhost:8888` in your browser.
+
+Else click deployed site:
+
 ## Screenshot
 
 #### Note Taker
@@ -40,9 +48,11 @@ URL:
 
 ## Technologies
 
+- [Express.js](https://expressjs.com/)
+- [Heroku](https://www.heroku.com/)
 - [Node.js](https://nodejs.org/)
 - [Inquirer.js](https://www.npmjs.com/package/inquirer)
+- [Bootstrap](https://getbootstrap.com/)
+- [NPM](https://www.npmjs.com/)
 - HTML
 - CSS
-- Bootstrap
-- JavaScript
