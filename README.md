@@ -46,7 +46,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 2. Run `npm install` to install all dependencies.
 3. To run the application locally, run `node server.js` in your command prompt.
 4. And then open `http://localhost:8888` in your browser.
-5. To end your server in your command prompt type: control + c
+5. To end your server in your command prompt type: Ctrl + c
 6. Else click deployed site (HEROKU):
 
 ## Screenshot
