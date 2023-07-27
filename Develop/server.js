@@ -6,15 +6,11 @@ const fs = require("fs");
 // Const generating unique ids
 const uuid = require("uuid");
 
-// const notes = require("./db/db.json");
-// const { DH_CHECK_P_NOT_SAFE_PRIME } = require("constants");
-
 // Use express.js
 const app = express();
 
 // Creating specific port to start the app
 const PORT = 8888;
-// var PORT = process.env.PORT || 8888;
 
 // Middleware for parsing JSON and urlencoded form data
 app.use(express.json());
