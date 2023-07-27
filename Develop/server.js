@@ -19,7 +19,7 @@ app.use(express.urlencoded({ extended: true }));
 // Middleware to serve up static assets from the public folder
 app.use(express.static("public"));
 
-// Get notes form db.json
+// Get notes from db.json
 app.get("/api/notes", (req, res) => {
   res.sendFile(path.join(__dirname, "/db/db.json"));
 });
