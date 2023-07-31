@@ -38,7 +38,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 7. I have added function for user to click on the Write icon in the navigation at the top of the page, THEN user presented with empty fields to enter a new note title and the note’s text in the right-hand column.
 8. I have created application front end to connect to an Express.js back end.
 9. I have created application back end to store notes with unique IDs in a JSON file.
-10. I have created application to be deployed to Heroku.
+10. I have created application deployed to Heroku.
 
 ## Install & Run the Application
 
@@ -47,7 +47,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 3. To run the application locally, run `node server.js` in your command prompt.
 4. And then open `http://localhost:8888` in your browser.
 5. To end your server in your command prompt type: Ctrl + c
-6. Else click deployed site (HEROKU):
+6. Else click deployed site (HEROKU): https://sheltered-depths-14099-b835c02a59f9.herokuapp.com/notes
 
 ## Screenshot
 
@@ -60,7 +60,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 GITHUB: https://github.com/csetiawan88/notetaker
 
-URL:
+URL: https://sheltered-depths-14099-b835c02a59f9.herokuapp.com/notes
 
 ## Technologies
 
