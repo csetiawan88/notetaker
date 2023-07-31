@@ -47,7 +47,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 3. To run the application locally, run `node server.js` in your command prompt.
 4. And then open `http://localhost:8888` in your browser.
 5. To end your server in your command prompt type: Ctrl + c
-6. Else click deployed site (HEROKU): https://sheltered-depths-14099-b835c02a59f9.herokuapp.com/notes
+6. Else click deployed site (HEROKU): https://sheltered-depths-14099-b835c02a59f9.herokuapp.com/
 
 ## Screenshot
 
@@ -60,7 +60,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 GITHUB: https://github.com/csetiawan88/notetaker
 
-URL: https://sheltered-depths-14099-b835c02a59f9.herokuapp.com/notes
+URL: https://sheltered-depths-14099-b835c02a59f9.herokuapp.com/
 
 ## Technologies
 
